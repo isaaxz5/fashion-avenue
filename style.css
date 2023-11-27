@@ -11,7 +11,7 @@ header{
 
 .logo-site img{
     float:left;
-    max-width: 100px;
+    max-width: 160px;
 }
 
 .logo-site h1{
@@ -68,6 +68,12 @@ nav a:hover {
     border: 2px solid black;
     border-radius: 10px;
 }
+
+.produtos li img{
+    width: 200px;
+    height: 300px;
+}
+
 .produtos li:hover{
     border-color: red;
 }
